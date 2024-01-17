@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Gaganpreet Sharma and I represent India in boxing.
+- I love programming, but i am a fresher. Still learning 👀  
 - Full-Stack Web Developer.
 - 👀Css, Html, Java-Script, Python, Lua 
 - Follow me on:-
